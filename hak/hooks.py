@@ -12,6 +12,7 @@ app_license = "MIT"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/hak/css/hak.css"
+app_include_css = "/assets/hak/css/hak.css"
 # app_include_js = "/assets/hak/js/hak.js"
 
 # include js, css files in header of web template

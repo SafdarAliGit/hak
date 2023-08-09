@@ -89,11 +89,11 @@ span.search-icon {
   background-color: #f6f3f3;
 }
 .widget.links-widget-box {
-  border: 1px solid #b2afaf;
+  border: 1px solid gainsboro;
 }
 .chart-loading-state.text-muted {
   border: solid;
-  border: 1px solid #b2afaf;
+  border: 1px solid gainsboro;
 }
 /*left menu style*/
 .desk-sidebar-item.standard-sidebar-item {
